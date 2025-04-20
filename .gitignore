@@ -1,0 +1,25 @@
+# node_modules - nunca deve ir pro Git
+node_modules/
+
+# logs do npm/yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# pastas de build do Next.js
+.next/
+out/
+
+# arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# arquivos do sistema operacional/macOS
+.DS_Store
+
+# opcional: pasta de cache do TypeScript
+dist/
+*.tsbuildinfo
