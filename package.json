@@ -15,7 +15,7 @@
     "xlsx": "^0.18.5",
     "tailwindcss": "^3.2.1",
     "@next/swc-win32-x64-msvc": "^1.0.0",
-    "shadcn-ui": "^1.0.0" 
+    "shadcn-ui": "^0.9.5" 
   },
   "devDependencies": {
     "typescript": "^4.5.5",
